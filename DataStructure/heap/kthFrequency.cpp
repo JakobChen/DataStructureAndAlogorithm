@@ -37,7 +37,7 @@ It is guaranteed that there will be at least k elements in the array when you se
 */
 
 
-
+/*why the camp with static, how to use decltype*/
 class Solution {
 public:
     static bool cmp(pair<int,int> &m, pair<int,int>&n){
